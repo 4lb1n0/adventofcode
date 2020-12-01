@@ -5,7 +5,7 @@
 
 from itertools import combinations
 report = []
-file = open("report.txt")
+file = open("day01.txt")
 lines = file.readlines()
 for line in lines:
     report.append(int(line.strip()))
@@ -16,7 +16,7 @@ print(*(i[0]*i[1] for i in combinations(report, 2) if sum(i) == 2020))
 
 from itertools import combinations
 report = []
-file = open("report.txt")
+file = open("day01.txt")
 lines = file.readlines()
 for line in lines:
     report.append(int(line.strip()))
