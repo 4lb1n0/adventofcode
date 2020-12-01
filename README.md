@@ -9,4 +9,4 @@ If you like the project and want to support it, you can [donate here](https://ad
 
 # Years
 
-* [Advent of Code 2020]()
+* [Advent of Code 2020](https://github.com/4lb1n0/adventofcode/tree/main/2020)
