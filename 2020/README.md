@@ -7,3 +7,6 @@ Here lies my solution code for different days of Advent of Code 2020
 * **Day 02: Password Philosophy**
   * [Code](https://github.com/4lb1n0/adventofcode/blob/main/2020/solutions/day02.py)
   * [Input](https://github.com/4lb1n0/adventofcode/blob/main/2020/inputs/day02.txt)
+* **Day 03: Toboggan Trajectory**
+  * [Code](https://github.com/4lb1n0/adventofcode/blob/main/2020/solutions/day03.py)
+  * [Input](https://github.com/4lb1n0/adventofcode/blob/main/2020/inputs/day03.txt)
